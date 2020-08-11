@@ -1,0 +1,16 @@
+{
+  "name": "@bytedo/rollup-plugin-uglify",
+  "version": "1.0.0",
+  "description": "Rollup plugin to minify generated bundle, base on terser. Support ES6+.",
+  "main": "index.js",
+  "module": "index.es.js",
+  "author": "yutent",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytedo/rollup-plugin-uglify.git"
+  },
+  "dependencies": {
+    "terser": "^5.0.0"
+  }
+}
